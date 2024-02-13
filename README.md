@@ -13,5 +13,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Data could tell you truth but in statistical language 😊
 
-- 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeban-christo-2003&theme=chartreuse-dark)](https://git.io/streak-stats)
